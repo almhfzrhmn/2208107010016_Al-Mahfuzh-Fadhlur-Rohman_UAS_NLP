@@ -34,8 +34,7 @@ voice_chatbot_project/
 - Gunakan speaker: `wibowo` dari model Coqui v1.2.
 
 
-LinkedIn :
-https://www.linkedin.com/in/almahfuzh-fadhlur-rohman-b8a9722a9/
+
 
 ## 👨‍💻 Dibuat Untuk
 Proyek UAS mata kuliah *Pemrosesan Bahasa Alami* — Semester Genap 2024/2025.
