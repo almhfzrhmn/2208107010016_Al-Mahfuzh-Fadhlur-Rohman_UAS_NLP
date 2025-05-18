@@ -1,0 +1,14 @@
+# Environment
+.env
+venv*/
+env*/
+__pycache__/
+
+# Whisper & Coqui
+app/whisper.cpp/
+app/coqui_utils/
+app/models/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
